@@ -1,0 +1,5 @@
+c:\users\cruz betancourt\documents\visual studio 2013\Projects\E2-1Factorial\E2-1Factorial\bin\Debug\E2-1Factorial.exe.config
+c:\users\cruz betancourt\documents\visual studio 2013\Projects\E2-1Factorial\E2-1Factorial\bin\Debug\E2-1Factorial.exe
+c:\users\cruz betancourt\documents\visual studio 2013\Projects\E2-1Factorial\E2-1Factorial\bin\Debug\E2-1Factorial.pdb
+c:\users\cruz betancourt\documents\visual studio 2013\Projects\E2-1Factorial\E2-1Factorial\obj\Debug\E2-1Factorial.exe
+c:\users\cruz betancourt\documents\visual studio 2013\Projects\E2-1Factorial\E2-1Factorial\obj\Debug\E2-1Factorial.pdb
