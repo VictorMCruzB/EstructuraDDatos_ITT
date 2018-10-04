@@ -4,3 +4,6 @@ c:\users\cruz betancourt\documents\visual studio 2013\Projects\E2-2 CruzBetancou
 c:\users\cruz betancourt\documents\visual studio 2013\Projects\E2-2 CruzBetancourtVictorManuel\E2-2 CruzBetancourtVictorManuel\obj\Debug\E2-2 CruzBetancourtVictorManuel.csprojResolveAssemblyReference.cache
 c:\users\cruz betancourt\documents\visual studio 2013\Projects\E2-2 CruzBetancourtVictorManuel\E2-2 CruzBetancourtVictorManuel\obj\Debug\E2-2 CruzBetancourtVictorManuel.exe
 c:\users\cruz betancourt\documents\visual studio 2013\Projects\E2-2 CruzBetancourtVictorManuel\E2-2 CruzBetancourtVictorManuel\obj\Debug\E2-2 CruzBetancourtVictorManuel.pdb
+C:\Users\cruz betancourt\Documents\GitHub\EDD_ITT\E2-2 CruzBetancourtVictorManuel\E2-2 CruzBetancourtVictorManuel\bin\Debug\E2-2 CruzBetancourtVictorManuel.exe.config
+C:\Users\cruz betancourt\Documents\GitHub\EDD_ITT\E2-2 CruzBetancourtVictorManuel\E2-2 CruzBetancourtVictorManuel\obj\Debug\E2-2 CruzBetancourtVictorManuel.exe
+C:\Users\cruz betancourt\Documents\GitHub\EDD_ITT\E2-2 CruzBetancourtVictorManuel\E2-2 CruzBetancourtVictorManuel\obj\Debug\E2-2 CruzBetancourtVictorManuel.pdb
