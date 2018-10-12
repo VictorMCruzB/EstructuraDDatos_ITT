@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\AC.3-2.CruzBetancourtVictorManuel\AC.3-2.CruzBetancourtVictorManuel\bin\Debug\AC.3-2.CruzBetancourtVictorManuel.exe.config
+C:\Users\PC\source\repos\AC.3-2.CruzBetancourtVictorManuel\AC.3-2.CruzBetancourtVictorManuel\bin\Debug\AC.3-2.CruzBetancourtVictorManuel.exe
+C:\Users\PC\source\repos\AC.3-2.CruzBetancourtVictorManuel\AC.3-2.CruzBetancourtVictorManuel\bin\Debug\AC.3-2.CruzBetancourtVictorManuel.pdb
+C:\Users\PC\source\repos\AC.3-2.CruzBetancourtVictorManuel\AC.3-2.CruzBetancourtVictorManuel\obj\Debug\AC.3-2.CruzBetancourtVictorManuel.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\AC.3-2.CruzBetancourtVictorManuel\AC.3-2.CruzBetancourtVictorManuel\obj\Debug\AC.3-2.CruzBetancourtVictorManuel.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\AC.3-2.CruzBetancourtVictorManuel\AC.3-2.CruzBetancourtVictorManuel\obj\Debug\AC.3-2.CruzBetancourtVictorManuel.exe
+C:\Users\PC\source\repos\AC.3-2.CruzBetancourtVictorManuel\AC.3-2.CruzBetancourtVictorManuel\obj\Debug\AC.3-2.CruzBetancourtVictorManuel.pdb
