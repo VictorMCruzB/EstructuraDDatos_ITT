@@ -1,0 +1,6 @@
+c:\users\cruz betancourt\documents\visual studio 2013\Projects\PE-3.CruzBetancourtVictorManuel\PE-3.CruzBetancourtVictorManuel\bin\Debug\PE-3.CruzBetancourtVictorManuel.exe.config
+C:\Users\cruz betancourt\documents\visual studio 2013\Projects\PE-3.CruzBetancourtVictorManuel\PE-3.CruzBetancourtVictorManuel\obj\Debug\PE-3.CruzBetancourtVictorManuel.csprojResolveAssemblyReference.cache
+C:\Users\cruz betancourt\documents\visual studio 2013\Projects\PE-3.CruzBetancourtVictorManuel\PE-3.CruzBetancourtVictorManuel\bin\Debug\PE-3.CruzBetancourtVictorManuel.exe
+C:\Users\cruz betancourt\documents\visual studio 2013\Projects\PE-3.CruzBetancourtVictorManuel\PE-3.CruzBetancourtVictorManuel\bin\Debug\PE-3.CruzBetancourtVictorManuel.pdb
+C:\Users\cruz betancourt\documents\visual studio 2013\Projects\PE-3.CruzBetancourtVictorManuel\PE-3.CruzBetancourtVictorManuel\obj\Debug\PE-3.CruzBetancourtVictorManuel.exe
+C:\Users\cruz betancourt\documents\visual studio 2013\Projects\PE-3.CruzBetancourtVictorManuel\PE-3.CruzBetancourtVictorManuel\obj\Debug\PE-3.CruzBetancourtVictorManuel.pdb
